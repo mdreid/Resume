@@ -1,0 +1,6 @@
+# ignore .pdf files
+*.pdf
+
+# ignore intermediate files
+*.aux
+*.log
